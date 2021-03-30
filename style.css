@@ -183,3 +183,14 @@
     padding-top: 25px;
     padding-bottom: 10px;
 }
+
+.datalinks{
+    color: #000;
+    font-family: woods;
+    text-decoration: none;
+    font-size: 4vw;
+    
+}
+.datalinks:hover {
+    color: red;
+}
