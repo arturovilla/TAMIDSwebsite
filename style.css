@@ -39,7 +39,6 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
-    "pic pic"
     "title title"
     "navi navi"
     "cnt1 cnt1"
